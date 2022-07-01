@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="374px" height="198px" viewBox="0 0 374 198" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <rect id="path-1" x="0" y="0" width="374" height="197"></rect>
+    </defs>
+    <g id="UI-KIT-+-Contenu-riche" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Blocs" transform="translate(-929.000000, -13369.000000)">
+            <g id="04-Solutions" transform="translate(0.000000, 13319.000000)">
+                <g id="Group-4-Copy-2" transform="translate(929.000000, 50.000000)">
+                    <g id="BG" transform="translate(0.000000, 0.025974)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#FFF62F" xlink:href="#path-1"></use>
+                        <path d="M112.581108,197 L112.581108,197 C-20.2869505,197 -128.002889,89.2840612 -128.002889,-43.5839977 L-128.002889,-43.5839977 C-128.002889,-180.782086 -16.784975,-292 120.430364,-292 L120.430364,-292 C253.298423,-292 361.014362,-184.301312 361.014362,-51.4332534 L361.014362,-51.4332534 C361.014362,85.7820857 249.779196,197 112.581108,197" id="Fill-1" fill="#4D2CF8" mask="url(#mask-2)"></path>
+                        <polygon id="Fill-4" fill="#92D283" mask="url(#mask-2)" points="-51.0446424 125.130435 289.129271 125.130435 289.129271 -215.043478 -51.0446424 -215.043478"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

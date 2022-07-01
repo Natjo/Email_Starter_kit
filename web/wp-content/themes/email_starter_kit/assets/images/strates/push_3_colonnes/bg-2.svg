@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="374px" height="199px" viewBox="0 0 374 199" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <rect id="path-1" x="0" y="0" width="374" height="198"></rect>
+    </defs>
+    <g id="UI-KIT-+-Contenu-riche" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Blocs" transform="translate(-535.000000, -13369.000000)">
+            <g id="04-Solutions" transform="translate(0.000000, 13319.000000)">
+                <g id="Group-4-Copy" transform="translate(535.000000, 50.000000)">
+                    <g id="BG" transform="translate(0.000000, 0.025974)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#FFF62F" xlink:href="#path-1"></use>
+                        <path d="M152,198 L378.003189,198 L378.003189,-28 C378.003189,96.8078741 276.825581,198 152,198" id="Fill-4" fill="#8FCF81" mask="url(#mask-2)"></path>
+                        <path d="M378.007973,-28 L152,-28 L152,198 C276.812277,198 378.007973,96.8238199 378.007973,-28" id="Mask" fill="#839DFF" mask="url(#mask-2)"></path>
+                        <path d="M378.007938,-27.0015875 C378.007938,-151.273967 277.261788,-252.003175 153.003969,-252.003175 C28.7302746,-252.003175 -72,-151.273967 -72,-27.0015875 C-72,97.2707914 28.7302746,198 153.003969,198 L153.003969,-27.0015875 L378.007938,-27.0015875 Z" id="Fill-1" fill="#4D2CF0" mask="url(#mask-2)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

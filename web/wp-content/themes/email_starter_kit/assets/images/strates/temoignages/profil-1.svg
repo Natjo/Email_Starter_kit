@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="78px" height="79px" viewBox="0 0 78 79" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Profil</title>
+    <defs>
+        <path d="M78.0006988,39 C78.0006988,60.5389302 60.5402548,78 39.0020965,78 C17.460444,78 0,60.5389302 0,39 C0,17.4610698 17.460444,0 39.0020965,0 C60.5402548,0 78.0006988,17.4610698 78.0006988,39" id="path-1"></path>
+    </defs>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-Home_Valorplas" transform="translate(-493.000000, -4150.000000)">
+            <g id="06-Citation" transform="translate(136.000000, 4010.585109)">
+                <g id="Citations" transform="translate(2.000000, 117.355339)">
+                    <g id="Profil" transform="translate(355.000000, 22.805583)">
+                        <polygon id="Fill-1" fill="#4D2CF7" points="0.000698837063 78 78.0006988 78 78.0006988 0 0.000698837063 0"></polygon>
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#8FCF81" xlink:href="#path-1"></use>
+                        <path d="M-25.5174988,144 L-25.5178098,144 C-60.0251532,144 -87.9993477,116.026117 -87.9993477,81.5184621 C-87.9993477,45.8858183 -59.1135294,17 -23.4808856,17 C11.0267689,17 39.0009633,44.9738834 39.0009633,79.4815379 L39.0009633,79.4818489 C39.0009633,115.114182 10.114834,144 -25.5174988,144" id="Fill-1" fill="#FFF62F" mask="url(#mask-2)"></path>
+                        <polygon id="Fill-1" fill="#C8E8C1" mask="url(#mask-2)" points="39.0006988 78 78.0006988 78 78.0006988 39 39.0006988 39"></polygon>
+                        <polygon id="Fill-1-Copy" fill="#EBEFFF" mask="url(#mask-2)" points="39.0006988 39 78.0006988 39 78.0006988 0 39.0006988 0"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

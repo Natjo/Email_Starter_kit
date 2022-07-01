@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="475px" height="475px" viewBox="0 0 475 475" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 3</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="237" height="237" rx="118.5"></rect>
+    </defs>
+    <g id="Annexe" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Contact" transform="translate(-967.000000, 0.000000)">
+            <g id="Group-3" transform="translate(967.000000, 0.000000)">
+                <path d="M336.223122,237 L474.31138,237 L474.31138,237 L474.31138,375 C474.31138,430.228475 429.539855,475 374.31138,475 L236.223122,475 L236.223122,475 L236.223122,337 C236.223122,281.771525 280.994647,237 336.223122,237 Z" id="Rectangle-Copy-5" fill="#FFF62F"></path>
+                <rect id="Rectangle" fill="#4D2CF8" x="237" y="0.232493489" width="237.025974" height="237.025974"></rect>
+                <g id="Image-1-Copy">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#92D283" xlink:href="#path-1"></use>
+                    <text id="*" mask="url(#mask-2)" transform="translate(129.538444, 157.487531) rotate(-20.000000) translate(-129.538444, -157.487531) " font-family="AribauGrotesk-XLt, Aribau Grotesk" font-size="244.047738" font-weight="300" fill="#FFFFFF">
+                        <tspan x="77.7237743" y="242.987531">*</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

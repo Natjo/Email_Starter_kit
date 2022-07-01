@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="361px" height="402px" viewBox="0 0 361 402" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>BG</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="361" height="402"></rect>
+    </defs>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-Home_Valorplas-Vidéo" transform="translate(-940.000000, -3385.000000)">
+            <g id="04-Solutions" transform="translate(136.000000, 3203.525974)">
+                <g id="BG" transform="translate(804.000000, 181.474026)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#FFF62F" xlink:href="#path-1"></use>
+                    <path d="M140.486312,418 L140.486312,418 C4.9011148,418 -105.017604,308.081281 -105.017604,172.496084 L-105.017604,172.496084 C-105.017604,32.4923093 8.47470543,-81 148.496084,-81 L148.496084,-81 C284.081281,-81 394,28.9011148 394,164.486312 L394,164.486312 C394,304.507691 280.490087,418 140.486312,418" id="Fill-1" fill="#4D2CF8" mask="url(#mask-2)"></path>
+                    <polygon id="Fill-4" fill="#92D283" mask="url(#mask-2)" points="-38.6696178 343.46279 316.446947 343.46279 316.446947 -11.6537743 -38.6696178 -11.6537743"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

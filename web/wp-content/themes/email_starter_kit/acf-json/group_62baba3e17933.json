@@ -1,0 +1,432 @@
+{
+    "key": "group_62baba3e17933",
+    "title": "Paramètres",
+    "fields": [
+        {
+            "key": "field_62bc3897b64c8",
+            "label": "Layout",
+            "name": "",
+            "type": "tab",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "placement": "top",
+            "endpoint": 0
+        },
+        {
+            "key": "field_62bd60878f9c4",
+            "label": "Url des images",
+            "name": "campagne-fields-url_image",
+            "type": "text",
+            "instructions": "Laisser vide pour que ce soit les image du site",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        },
+        {
+            "key": "field_62baba5aded90",
+            "label": "Container width",
+            "name": "campagne-fields-width",
+            "type": "number",
+            "instructions": "Nombre pair",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": 600,
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": "",
+            "max": "",
+            "step": ""
+        },
+        {
+            "key": "field_62bc1f18caf34",
+            "label": "Container offset",
+            "name": "campagne-fields-ctr_offset",
+            "type": "number",
+            "instructions": "Nombre pair",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": 20,
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": "",
+            "max": "",
+            "step": ""
+        },
+        {
+            "key": "field_62bc1f6acaf35",
+            "label": "Container offset mobile",
+            "name": "campagne-fields-ctr_offset-mobile",
+            "type": "number",
+            "instructions": "Nombre pair",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": 20,
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": "",
+            "max": "",
+            "step": ""
+        },
+        {
+            "key": "field_62bc1faa65218",
+            "label": "Gap",
+            "name": "campagne-fields-gap",
+            "type": "number",
+            "instructions": "Nombre pair",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": 20,
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": "",
+            "max": "",
+            "step": ""
+        },
+        {
+            "key": "field_62bc38b762518",
+            "label": "Color",
+            "name": "",
+            "type": "tab",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "placement": "top",
+            "endpoint": 0
+        },
+        {
+            "key": "field_62baba93ded91",
+            "label": "Couleur de fond",
+            "name": "campagne-fields-bg-color",
+            "type": "color_picker",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "#ffffff",
+            "enable_opacity": 0,
+            "return_format": "string"
+        },
+        {
+            "key": "field_62babad0ded92",
+            "label": "Couleur de la page",
+            "name": "campagne-fields-page-color",
+            "type": "color_picker",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "#f5f5f5",
+            "enable_opacity": 0,
+            "return_format": "string"
+        },
+        {
+            "key": "field_62babf164c353",
+            "label": "Couleur texte",
+            "name": "campagne-fields-color-text",
+            "type": "color_picker",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "#000",
+            "enable_opacity": 0,
+            "return_format": "string"
+        },
+        {
+            "key": "field_62babd96ded94",
+            "label": "Couleur primaire",
+            "name": "campagne-fields-color-primary",
+            "type": "color_picker",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "#1e73be",
+            "enable_opacity": 0,
+            "return_format": "string"
+        },
+        {
+            "key": "field_62babed04c351",
+            "label": "Couleur secondaire",
+            "name": "campagne-fields-color-secondary",
+            "type": "color_picker",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "#dd9933",
+            "enable_opacity": 0,
+            "return_format": "string"
+        },
+        {
+            "key": "field_62babeed4c352",
+            "label": "Couleur tertiaire",
+            "name": "campagne-fields-color-third",
+            "type": "color_picker",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "#8224e3",
+            "enable_opacity": 0,
+            "return_format": "string"
+        },
+        {
+            "key": "field_62bb125a121f3",
+            "label": "Couleur quatenaire",
+            "name": "campagne-fields-color-fourth",
+            "type": "color_picker",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "#8224e3",
+            "enable_opacity": 0,
+            "return_format": "string"
+        },
+        {
+            "key": "field_62bc38d030385",
+            "label": "Font",
+            "name": "",
+            "type": "tab",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "placement": "top",
+            "endpoint": 0
+        },
+        {
+            "key": "field_62babafcded93",
+            "label": "Font family",
+            "name": "campagne-fields-font-family",
+            "type": "select",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "choices": {
+                "Verdana,Geneva,sans-serif": "Verdana,Geneva,sans-serif",
+                "Arial,sans-serif": "Arial,sans-serif",
+                "Courier New,serif": "Courier New,serif",
+                "Helvetica,sans-serif": "Helvetica,sans-serif",
+                "Times New Roman,serif": "Times New Roman,serif",
+                "Tahoma,sans-serif": "Tahoma,sans-serif",
+                "Georgia,serif": "Georgia,serif",
+                "Trebuchet MS,sans-serif": "Trebuchet MS,sans-serif",
+                "Lucida Sans Unicode,sans-serif": "Lucida Sans Unicode,sans-serif"
+            },
+            "default_value": "Verdana,Geneva,sans-serif",
+            "allow_null": 0,
+            "multiple": 0,
+            "ui": 0,
+            "return_format": "value",
+            "ajax": 0,
+            "placeholder": ""
+        },
+        {
+            "key": "field_62babe4d5a063",
+            "label": "Font size small",
+            "name": "campagne-fields-font_size-sm",
+            "type": "number",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": 12,
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": "",
+            "max": "",
+            "step": ""
+        },
+        {
+            "key": "field_62babe6e5a064",
+            "label": "Font size regular",
+            "name": "campagne-fields-font_size",
+            "type": "number",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": 14,
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": "",
+            "max": "",
+            "step": ""
+        },
+        {
+            "key": "field_62babe805a065",
+            "label": "Font size medium",
+            "name": "campagne-fields-font_size-md",
+            "type": "number",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": 18,
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": "",
+            "max": "",
+            "step": ""
+        },
+        {
+            "key": "field_62babe925a066",
+            "label": "Font size large",
+            "name": "campagne-fields-font_size-lg",
+            "type": "number",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": 22,
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": "",
+            "max": "",
+            "step": ""
+        },
+        {
+            "key": "field_62babea35a067",
+            "label": "Font size x large",
+            "name": "campagne-fields-font_size-xlg",
+            "type": "number",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": 28,
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": "",
+            "max": "",
+            "step": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "campagnes"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "show_in_rest": 0,
+    "modified": 1656578453
+}

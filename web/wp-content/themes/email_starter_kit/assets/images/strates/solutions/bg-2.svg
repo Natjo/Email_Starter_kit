@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="361px" height="402px" viewBox="0 0 361 402" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>BG</title>
+    <defs>
+        <path d="M0,0 L361,0 L361,370 C361,387.673112 346.673112,402 329,402 L0,402 L0,402 L0,0 Z" id="path-1"></path>
+    </defs>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-Home_Valorplas-Vidéo" transform="translate(-540.000000, -3385.000000)">
+            <g id="04-Solutions" transform="translate(136.000000, 3203.525974)">
+                <g id="BG" transform="translate(404.000000, 181.474026)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#FFF62F" xlink:href="#path-1"></use>
+                    <path d="M361.003189,402 L361.003189,176 C361.003189,300.807874 259.825581,402 135,402 L361.003189,402 Z" id="Fill-4" fill="#8FCF81" mask="url(#mask-2)"></path>
+                    <path d="M361.007973,176 L135,176 L135,402 C259.812277,402 361.007973,300.82382 361.007973,176" id="Mask" fill="#839DFF" mask="url(#mask-2)"></path>
+                    <path d="M361.007938,176.998412 C361.007938,52.7260335 260.261788,-48.0031751 136.003969,-48.0031751 C11.7302746,-48.0031751 -89,52.7260335 -89,176.998412 C-89,301.270791 11.7302746,402 136.003969,402 L136.003969,176.998412 L361.007938,176.998412 Z" id="Fill-1" fill="#4D2CF0" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
